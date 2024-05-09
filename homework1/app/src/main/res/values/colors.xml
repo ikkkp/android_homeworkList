@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Updated color scheme with slight changes to purple and teal shades -->
+    <color name="purple_200">#FFB0A8FC</color> <!-- Lighter purple -->
+    <color name="purple_500">#FF5A00FF</color> <!-- More vibrant purple -->
+    <color name="purple_700">#FF2E00B0</color> <!-- Darker purple -->
+    <color name="teal_200">#FF03E4D1</color>   <!-- Brighter teal -->
+    <color name="teal_700">#FF017376</color>   <!-- More subdued teal -->
+    <color name="black">#FF000000</color>      <!-- Unchanged -->
+    <color name="white">#FFFFFFFF</color>      <!-- Unchanged -->
+</resources>
